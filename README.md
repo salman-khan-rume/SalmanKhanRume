@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salman Khan Rume</h1>
 <h3 align="center">A passionate CS student and aspiring programmer and web developer from Bangladesh</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+img align="right" alt="Coding" width="400" src="https://giphy.com/clips/elbformat-hamburg-engineer-binaryengineer-NiwZ9THiCOodYySoSh">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salman-khan-rume&label=Profile%20views&color=0e75b6&style=flat" alt="salman-khan-rume" /> </p>
