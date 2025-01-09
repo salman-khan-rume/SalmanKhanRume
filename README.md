@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salman-khan-rume&show_icons=true&locale=en" alt="salman-khan-rume" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salman-khan-rume&" alt="salman-khan-rume" /></p>
+
